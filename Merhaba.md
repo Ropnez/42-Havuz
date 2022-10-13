@@ -1,6 +1,0 @@
-# 42-Havuz
-
-
-
-
-HELLOOOOO
